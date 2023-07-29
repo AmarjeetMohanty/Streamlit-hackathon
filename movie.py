@@ -71,7 +71,7 @@ def main():
 
     # Page footer
     st.markdown("---")
-    st.info("Developed by Your Name | Powered by Streamlit")
+    st.info("Developed by Amarjeet Mohanty | [GitHub Repo](https://github.com/AmarjeetMohanty/Streamlit-Hackathon) | Powered by Streamlit")
 
 if __name__ == "__main__":
     main()
