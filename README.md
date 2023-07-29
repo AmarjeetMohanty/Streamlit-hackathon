@@ -85,4 +85,3 @@ If you have any questions or feedback, feel free to contact the project maintain
 
 ---
 
-Replace the placeholders (such as image URL, demo link, email addresses) with actual content relevant to your project. The README should provide clear instructions on how to install, run, and contribute to the project. Additionally, it should acknowledge any external resources or tools used in the project.
