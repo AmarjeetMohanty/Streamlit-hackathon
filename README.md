@@ -2,7 +2,7 @@
 
 
 
-**Movie InfoSearch** is a web application built using Streamlit for the XYZ Hackathon. It allows users to search for movie information using the Open Movie Database (OMDb) API.
+**Movie InfoSearch** is a web application built using Streamlit for the Connection Hackathon. It allows users to search for movie information using the Open Movie Database (OMDb) API.
 
 ## Features
 
@@ -12,7 +12,7 @@
 
 ## Demo
 
-You can try out the live demo of the app at: [Demo Link]((https://movie-api.streamlit.app/))
+You can try out the live demo of the app at: [Website Link](https://movie-api.streamlit.app)
 
 ## Getting Started
 
