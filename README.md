@@ -12,7 +12,7 @@
 
 ## Demo
 
-You can try out the live demo of the app at: [Demo Link](https://your-demo-link.com)
+You can try out the live demo of the app at: [Demo Link]((https://movie-api.streamlit.app/))
 
 ## Getting Started
 
